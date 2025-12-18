@@ -9,13 +9,13 @@ This analysis does not capture all forms of reuse activity. Organizations withou
 ## Project Images
 
 ### Citywide Context
-![Citywide distribution](panel1_citywide.png)
+![Citywide distribution](panel1_citywide.png.png)
 
 ### Community Anchors
 ![Community anchors](panel2_anchors.png)
 
 ### Areas of Overlap
-![Spatial overlap](panel3_overlap.png)
+![Spatial overlap](panel3_overlap.png.png)
 
 ### Conceptual Facilitation Corridors
-![Conceptual corridors](panel4_overlap.png)
+![Conceptual corridors](panel4_overlap.pn.png)
