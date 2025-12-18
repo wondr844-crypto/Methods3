@@ -1,7 +1,7 @@
 # Reuse Facilitation Corridors
 Mapping where reuse initiatives and youth-centered spaces intersect across New York City.
 ## Overview
-This project begins with curiosity about where learning, care, and participation already take place across New York City. By mapping youth-centered spaces such as schools, libraries, and after-school programs alongside reuse-oriented organizations, it explores how everyday community anchors might support environmental education, collaboration, and shared making. Rather than proposing fixed solutions, the project looks for patterns, gaps, and points of proximity that suggest where facilitation, partnerships, and collective reuse practices could grow.
+This project begins with curiosity about where learning, care, and participation already take place across New York City. By mapping youth-centered spaces such as schools, libraries, and after-school programs alongside reuse + repair organizations, it explores how everyday community anchors might support environmental education, collaboration, and shared making. Rather than proposing fixed solutions, the project looks for patterns, gaps, and points of proximity that suggest where facilitation, partnerships, and collective reuse practices could grow.
 ## Methods
 After-school programs are used as a proxy for youth participation at a neighborhood scale. Proximity is explored to suggest everyday access rather than formal service boundaries. Conceptual corridors are derived from areas of spatial overlap, highlighting where informal partnerships or shared programming might emerge.
 ## Data & Scope
