@@ -1,5 +1,6 @@
-![IMG_8273](https://github.com/user-attachments/assets/4be1f4e6-d7ee-42bf-969f-17b66ba67cf4)
 # Reuse Facilitation Corridors
+![IMG_8273](https://github.com/user-attachments/assets/4be1f4e6-d7ee-42bf-969f-17b66ba67cf4)
+
 
 Mapping where reuse initiatives and youth-centered spaces intersect across New York City.
 ## Overview
