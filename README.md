@@ -7,14 +7,14 @@ After-school programs are used as a proxy for youth participation at a neighborh
 ## Data & Scope
 This analysis does not capture all forms of reuse activity. Organizations without fixed locations, such as repair cafés, pop-up workshops, or informal community spaces, are not fully represented. These gaps point to opportunities for future expansion of this living map.
 ## Maps
-### Citywide Context
+
 ![Citywide context of reuse-oriented organizations and youth-centered spaces](panel1_citywide.png.png)
 
-### Community Anchors
+
 ![Community anchors across Brooklyn](panel2_anchors.png.png)
 
-### Neighborhood-scale areas of overlap
+
 ![Spatial overlap](panel3_overlap.png.png)
 
-### Conceptual Facilitation Corridors
+
 ![Conceptual corridors](panel4_overlap.png.png)
