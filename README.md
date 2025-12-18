@@ -6,15 +6,14 @@ This project explores how youth-focused spaces such as schools, libraries, and a
 After-school programs are used as a proxy for youth participation at a neighborhood scale. Proximity is explored to suggest everyday access rather than formal service boundaries. Conceptual corridors are derived from areas of spatial overlap, highlighting where informal partnerships or shared programming might emerge.
 ## Data & Scope
 This analysis does not capture all forms of reuse activity. Organizations without fixed locations, such as repair cafés, pop-up workshops, or informal community spaces, are not fully represented. These gaps point to opportunities for future expansion of this living map.
-## Project Images
-
+## Maps
 ### Citywide Context
-![Citywide distribution](panel1_citywide.png.png)
+![Citywide context of reuse-oriented organizations and youth-centered spaces](panel1_citywide.png.png)
 
 ### Community Anchors
-![Community anchors](panel2_anchors.png.png)
+![Community anchors across Brooklyn](panel2_anchors.png.png)
 
-### Areas of Overlap
+### Neighborhood-scale areas of overlap
 ![Spatial overlap](panel3_overlap.png.png)
 
 ### Conceptual Facilitation Corridors
