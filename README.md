@@ -1,14 +1,19 @@
-# Reuse Facilitation Corridors
+# Mapping Brooklyn's Circular Economy Ecosystem and Youth-Centered Infrastructure
 ![IMG_8273](https://github.com/user-attachments/assets/4be1f4e6-d7ee-42bf-969f-17b66ba67cf4)
 
 
-Mapping where reuse initiatives and youth-centered spaces intersect across New York City.
+This project asks where everyday practices of repair, reuse, and shared making might grow into neighborhood-scale environmental education.
+
+
 ## Overview
-This project begins with curiosity about where learning, care, and participation already take place across New York City. By mapping youth-centered spaces such as schools, libraries, and after-school programs alongside reuse + repair organizations, it explores how everyday community anchors might support environmental education, collaboration, and shared making. Rather than proposing fixed solutions, the project looks for patterns, gaps, and points of proximity that suggest where facilitation, partnerships, and collective reuse practices could grow.
-## Methods
-After-school programs are used as a proxy for youth participation at a neighborhood scale. Proximity is explored to suggest everyday access rather than formal service boundaries. Conceptual corridors are derived from areas of spatial overlap, highlighting where informal partnerships or shared programming might emerge.
-## Data & Scope
-This analysis does not capture all forms of reuse activity. Organizations without fixed locations, such as repair cafés, pop-up workshops, or informal community spaces, are not fully represented. These gaps point to opportunities for future expansion of this living map.
+Understanding where environmental practice happens requires looking at who has access to it and who knows it exists. This project maps circular economy organizations alongside schools, libraries, and after-school programs to explore questions of visibility and collaboration. Where do these spaces already overlap? Where might partnerships develop organically? Spatial patterns reveal concentrations and absences. Some neighborhoods show dense overlap between youth programming and circular economy hubs. Others have community infrastructure but limited visible connection to environmental work that young people can participate in and learn from. The buffers around youth-centered sites suggest where outreach and collaboration might grow organically, highlighting potential rather than prescribing specific partnerships.
+
+
+##Programs & Organizations
+Circular economy organizations exist across NYC, but many NYC youth do not know these spaces exist or how to engage with them. These organizations demonstrate different pathways into circular economy work for NYC youth. They include textile reuse hubs, tool libraries, and green workforce development. Some operate from fixed locations while others run as pop-ups or mobile programs. Not all appear on this map yet. As the living map evolves, it will capture more organizations, routes, and partnership possibilities. Physical proximity alone does not guarantee that NYC youth can access these organizations. Collective efforts between circular economy sites and public institutions can create opportunities for grounded environmental learning at the neighborhood scale. What does collaboration between schools and these organizations actually look like in practice? Spatial analysis reveals that circular economy organizations concentrate in North Brooklyn. The buffers around after-school programs in Central, South, and East Brooklyn show significant gaps where youth programming exists but circular economy sites are largely absent. These fragments highlight both challenge and potential. Public spaces might serve as sites for commoning practices where partnerships cultivate conversation about our environment and how excess waste is inevitably shifting the way we navigate everyday life.
+
+
+
 ## Maps
 ![Citywide context of reuse-oriented organizations and youth-centered spaces](panel1_citywide.png.png)
 
